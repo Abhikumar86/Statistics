@@ -70,6 +70,6 @@ text(y = c(1:nlevels(as.factor(dat$Species))),
      labels = LABELS[,1])
 ```
 
-![](ANOVA/post-hoc-boxplot/figures/unnamed-chunk-3-1.png)
+![](Boxplot_Anova_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 Source Credit: [R Graph Gallery](https://www.r-graph-gallery.com/84-tukey-test.html)
